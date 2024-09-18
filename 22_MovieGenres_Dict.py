@@ -22,7 +22,7 @@ movie_genres_dict["Science Fiction"] = ['Arrival']
 del movie_genres_dict["Thriller"]
  
 # 2 
-print("movie_genres_dict")
+print(movie_genres_dict)
 # 6
 
 last_key = list(movie_genres_dict.keys())[-1]
